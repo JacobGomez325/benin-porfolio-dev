@@ -12,6 +12,10 @@ module.exports = {
       colors:{
         primary: "#316b9a",
         secondary: "#ffdd55"
+      },
+      gridTemplateColumns: {
+        // Complex site-specific column configuration
+        'content': '4fr 8fr',
       }
     },
   },

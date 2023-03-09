@@ -6,6 +6,7 @@
       placeholder="Search a portfolio...."
       aria-label="Search"
       aria-describedby="button-addon3"
+      @input="$emit('search',$event.target.value)"
     />
   </div>
 </template>
