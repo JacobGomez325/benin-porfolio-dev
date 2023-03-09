@@ -1,5 +1,7 @@
 # benin-porfolio-dev
 
+[Online Preview](https://benin-porfolio-dev.netlify.app/)
+
 ## Build Setup
 
 ```bash
