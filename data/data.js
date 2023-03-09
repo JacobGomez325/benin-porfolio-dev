@@ -49,6 +49,18 @@ export const datas = [
     description:"Fullstack  dev",
     socials: {},
   },
+  {
+    name: "DEGNON Tobi",
+    link: "https://oluwatobi.dev",
+    link_slug:"oluwatobi.dev",
+    tags: ["frontend", "backend"],
+    description:"Software engineer working with #python, #django #htmx",
+    socials: {
+      twitter: "tobidegnon",
+      github: "Tobi-De",
+      linkedin: "",
+    },
+  },
 ]
 
 
