@@ -75,6 +75,7 @@ export default {
         {name:'data',isActive:false},
         {name:'cybersecurity',isActive:false},
         {name:'machine learning',isActive:false},
+        {name:'gamedev',isActive:false},
       ],
       datas,
       search:''
