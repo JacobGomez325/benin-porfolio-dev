@@ -61,6 +61,30 @@ export const datas = [
       linkedin: "",
     },
   },
+  {
+    name: "SAGBO Aimé",
+    link: "https://www.linkedin.com/in/sagbo-aim%C3%A9-b72067171?trk=contact-info",
+    link_slug:"#",
+    tags: ["frontend", "backend", "mobile"],
+    description:"Fullstack Web Developper (Js/Ts/VueJs/Docker/MongoDB) & Mobile Developer (Flutter)",
+    socials: {
+      twitter: "",
+      github: "Goldy98",
+      linkedin: "sagbo-aimé-b72067171",
+    },
+  },
+  {
+    name: "AINON Rhétice",
+    link: "https://www.linkedin.com/in/rh%C3%A9tice-ainon-849557196/",
+    link_slug:"rheticeainon.dev",
+    tags: ["frontend", "backend", "mobile"],
+    description:"FullStack web and mobile developer, working with #js #python #php, #react #reactnative #django #laravel",
+    socials: {
+      twitter: "RheticeAinon",
+      github: "DRhetice",
+      linkedin: "rhétice-ainon-849557196",
+    },
+  },
 ]
 
 
